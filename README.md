@@ -1,6 +1,4 @@
-**DISNEYLAND DREAMS - Analyzing
-Sentiments and Creating Personalized
-Chatbot Experiences**
+## DISNEYLAND DREAMS - Analyzing Sentiments and Creating Personalized Chatbot Experiences:
 
 This project titled, “DISNEYLAND DREAMS – Analyzing Sentiments and creating Personalized
 Chatbot Experiences” aims in leveraging Natural Language Processing techniques to analyze
