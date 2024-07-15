@@ -13,3 +13,9 @@ understanding and predicting the user emotions from text messages.
 It is an important factor when it comes to monitoring Customer Satisfaction, Brand
 Reputation management, Predictive Analytics on future trends and personalized customer
 experience.
+
+The secondary objective of the project is the key innovation of building a Question and Answers (Q&A) chatbot 
+from our Disneyland reviews dataset that lies in its ability to tailor responses based on the reviews.
+By incorporating sentiment analysis into the chatbot’s logic, we elevate the conversational experience to a new level of empathy and understanding
+Users feel heard and acknowledged as the chatbot responds in ways that resonate with their emotions.
+
